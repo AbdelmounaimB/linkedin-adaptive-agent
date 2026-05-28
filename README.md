@@ -44,7 +44,7 @@ The key architectural lesson this project taught: MCP servers require a proper i
 **1. Clone and install dependencies:**
 
 ```bash
-git clone https://github.com/your-username/linkedin-adaptive-agent
+git clone https://github.com/AbdelmounaimB/linkedin-adaptive-agent
 cd linkedin-adaptive-agent
 npm install
 ```
