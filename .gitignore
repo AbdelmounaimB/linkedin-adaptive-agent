@@ -9,3 +9,10 @@ dist/
 
 # System files
 .DS_Store
+Thumbs.db
+
+# Execution history - contains personal LinkedIn data
+memory/execution_history/
+
+# TypeScript build info
+*.tsbuildinfo
