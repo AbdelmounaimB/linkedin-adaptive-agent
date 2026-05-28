@@ -1,0 +1,11 @@
+# Local environment variables containing sensitive secrets
+.env
+
+# Dependencies
+node_modules/
+
+# Compiled JavaScript output files
+dist/
+
+# System files
+.DS_Store
